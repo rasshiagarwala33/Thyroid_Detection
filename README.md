@@ -16,8 +16,7 @@ The main goal is to predict the estimated risk on a patient's chance of obtainin
 
 
 # Deployment:
-The solution is deployed on Amazon Web Services (AWS) on EC2 Instance using Linux environment.  
-![image](https://user-images.githubusercontent.com/63582471/141607984-309840bc-a442-46af-bb28-83172701a0b6.png)
+The solution is deployed on pythonanywhere.  
 
 
 On Clicking the URL adrress the user will land on this homepage:-
