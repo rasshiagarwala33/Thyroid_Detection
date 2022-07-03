@@ -1,6 +1,6 @@
 
 # Thyroid Disease Detection
-URL address: http://ec2-18-220-202-219.us-east-2.compute.amazonaws.com:8080/
+URL address: http://raszhhi.pythonanywhere.com/predict
 
 
 
