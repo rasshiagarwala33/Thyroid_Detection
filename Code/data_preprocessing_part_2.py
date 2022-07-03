@@ -10,7 +10,7 @@ logging.basicConfig(filename="Data_proprocessing _part_2.log", level=logging.INF
 					datefmt="%Y-%m-%d %H:%M:%S")
 
 logging.info("Reading the dataset.........")
-df = pd.read_csv("D:\\Notes_and_Assignments\\Thyroid_Disease_Detection\\Code\\data_processed_1.csv")
+df = pd.read_csv("D:\\Notes_and_Assignments\\Thyroid_Disease\\Code\\data_processed_1.csv")
 logging.info("Read the dataset successfully.")
 
 # We saw that the null values were imputed by a "?". To keep things simple I re-converted the "?" into numpy null value.
