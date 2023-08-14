@@ -1,6 +1,5 @@
 
 # Thyroid Disease Detection
-URL address: http://raszhhi.pythonanywhere.com/predict
 
 
 
